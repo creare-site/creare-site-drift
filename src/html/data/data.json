@@ -1,17 +1,15 @@
 {
-    "copy"           : "AppSeed. All rights reserved.", 
-    "email"          : "support@appseed.us",
+    "copy"           : "WebsiteMarket", 
+    "email"          : "hello@websitemarket.ro",
     "design"         : "Drift by Pixelarity",
 
-    "seo_title"      : "JAMstack - Drift design by Pixelarity | AppSeed",
-    "seo_desc"       : "JAMstack app with Drift design crafted by top Pixelarity.",
+    "seo_title"      : "Creare Site - Drift Design | WebsiteMarket",
+    "seo_desc"       : "Website de prezentare rapid, cu un design modern. Un produs Websitemarket",
 
-    "product"        : "https://github.com/app-generator/priv-jamstack-drift", 
-    "github"         : "https://github.com/app-generator/priv-jamstack-drift",
-    "facebook"       : "https://facebook.com/webappseed",
-    "twitter"        : "https://twitter.com/webappseed",
-    "support"        : "https://appseed.us/support",
-    "discord"        : "https://discord.gg/fZC6hup",
+    "product"        : "https://websitemarket.ro/", 
+    "github"         : "https://github.com/creare-site/creare-site-drift",
+    "facebook"       : "https://facebook.com/websitemarketro",
+    "twitter"        : "https://twitter.com/websitemarketro",
 
     "LAST_KEY" : "NA"
 }
